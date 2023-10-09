@@ -19,9 +19,9 @@ const PhotoGallery = () => {
 
     return (
         <div className='container'
-            data-aos="fade-down"
+            data-aos="zoom-in-up"
             data-aos-easing="linear"
-            data-aos-duration="1500"
+            data-aos-duration="1000"
         >
             <h1 className='text-center my-5'>Photo Gallery</h1>
             <ImageGallery

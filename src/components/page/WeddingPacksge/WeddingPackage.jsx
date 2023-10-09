@@ -29,7 +29,10 @@ const WeddingPackage = () => {
 
     return (
         <div className='container'>
-            <h1 className='text-center my-5'>Our Wedding services Package</h1>
+            <h1 className='text-center my-5'
+            data-aos="zoom-out-right"
+            data-aos-easing="linear"
+            data-aos-duration="1000">Our Wedding services Package</h1>
             <Tabs>
                 <TabList>
                     {

@@ -8,7 +8,7 @@ import { Row } from 'react-bootstrap';
 const Eventbycategory = () => {
 
     const [data, setData] = useState([])
-   
+
     const handleTabClick = (data) => {
         const url = `/events.json`;
         fetch(url)
@@ -24,12 +24,15 @@ const Eventbycategory = () => {
 
     const tabs = [
         { title: 'Events', data: 'Events' },
-        
+
     ];
 
     return (
         <div className='container'>
-            <h1 className='text-center my-5'>Our services</h1>
+            <h1 className='text-center my-5'
+                data-aos="zoom-in-up"
+                data-aos-easing="linear"
+                data-aos-duration="500">Our services</h1>
             <Tabs>
                 <TabList>
                     {
