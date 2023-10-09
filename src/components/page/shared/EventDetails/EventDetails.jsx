@@ -27,7 +27,7 @@ const EventDetails = () => {
         <div className="container my-4 min-vh-100">
             <div className="card mb-3">
                 <div className="row g-0">
-                    <div className="col-md-4">
+                    <div className="col-md-4 h-full">
                         <img src={findData.photo} className="img-fluid rounded-start" alt="..." />
                     </div>
                     <div className="col-md-8">
