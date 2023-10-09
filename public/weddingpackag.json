@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "64667a978c3d1a5885c790db",
+    "sellerName": "mostaq",
+    "sellerEmail": "mostaq@gmail.com",
+    "title": "Stage & Backdrop",
+    "photo": "https://i.ibb.co/p3z2287/stage.jpg",
+    "category": "Wedding",
+    "price": 200,
+    "rating": 4,
+    "quantity": 20,
+    "description": "Our backdrop brings the natural beauty of a lush garden with vibrant flowers, creating a picturesque setting for your special day."
+  },
+  {
+    "_id": "64667cb08c3d1a5885c790dc",
+    "sellerName": "mostaq",
+    "sellerEmail": "mostaq@gmail.com",
+    "title": "Arch & Centerpiece",
+    "photo": "https://i.ibb.co/pXK14g3/wedding-arch.webp",
+    "category": "Wedding",
+    "price": 500,
+    "rating": 3,
+    "quantity": 50,
+    "description": "Experience the magic of weddings with our stunning Arch & Centerpiece designs. These meticulously crafted elements add elegance and charm to your celebration, framing your vows and adorning your tables with beauty"
+  },
+  {
+    "_id": "64667d6b8c3d1a5885c790dd",
+    "sellerName": "mostaq",
+    "sellerEmail": "mostaq@gmail.com",
+    "title": "Artificial Flower",
+    "photo": "https://i.ibb.co/Wxjrzqn/artificial-flowers.webp",
+    "category": "Wedding",
+    "price": 150,
+    "rating": 4,
+    "quantity": 200,
+    "description": "Enhance your wedding's beauty with our exquisite artificial flowers. These lifelike blooms bring timeless elegance to your ceremony and reception, offering a perfect backdrop for your special day."
+  },
+  {
+    "_id": "64667e408c3d1a5885c790de",
+    "sellerName": "moin",
+    "sellerEmail": "moin@gmail.com",
+    "title": "Cover for Table & Chairs",
+    "photo": "https://i.ibb.co/RC77BHh/cover-white-wedding.webp",
+    "category": "Wedding",
+    "price": 100,
+    "rating": 5,
+    "quantity": 300,
+    "description": "Elevate your wedding's aesthetics with our elegant table and chair covers. These stylish additions not only protect your furniture but also create a cohesive and sophisticated look, ensuring a memorable ambiance for your celebration."
+  },
+  {
+    "_id": "64667f1b8c3d1a5885c790df",
+    "sellerName": "moin",
+    "sellerEmail": "moin@gmail.com",
+    "title": "Story Name Sign",
+    "photo": "https://i.ibb.co/vs70nRf/Styro.jpg",
+    "category": "Wedding",
+    "price": 99,
+    "rating": 3,
+    "quantity": 200,
+    "description": "Capture the essence of your love story with a personalized name sign for your wedding. These beautifully crafted signs add a touch of romance and uniqueness to your special day, serving as a charming backdrop for your journey together."
+  },
+  {
+    "_id": "64667fec8c3d1a5885c790e0",
+    "sellerName": "muzahid",
+    "sellerEmail": "muzahid@gmail.com",
+    "title": "VIP table Setup",
+    "photo": "https://i.ibb.co/PWg0ysJ/vip-table.jpg",
+    "category": "Wedding",
+    "price": 199,
+    "rating": 4,
+    "quantity": 10,
+    "description": "Elevate your wedding experience with a VIP table setup. Designed for utmost luxury and comfort, our VIP tables offer an exclusive and intimate setting for you and your guests. Enjoy impeccable service, exquisite decor, and a memorable atmosphere as you celebrate your special day in style."
+  }
+]

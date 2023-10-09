@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "64667a978c3d1a5885c790db",
+    "managerName": "mostaq",
+    "managerEmail": "mostaq@gmail.com",
+    "title": "Stage & Backdrop",
+    "photo": "https://i.ibb.co/p3z2287/stage.jpg",
+    "category": "Wedding",
+    "price": 200,
+    "rating": 4,
+    "description": "Our backdrop brings the natural beauty of a lush garden with vibrant flowers, creating a picturesque setting for your special day."
+  },
+  {
+    "_id": "64667cb08c3d1a5885c790dc",
+    "managerName": "mostaq",
+    "managerEmail": "mostaq@gmail.com",
+    "title": "Arch & Centerpiece",
+    "photo": "https://i.ibb.co/pXK14g3/wedding-arch.webp",
+    "category": "Wedding",
+    "price": 500,
+    "rating": 3,
+    "description": "Experience the magic of weddings with our stunning Arch & Centerpiece designs. These meticulously crafted elements add elegance and charm to your celebration, framing your vows and adorning your tables with beauty"
+  },
+  {
+    "_id": "64667d6b8c3d1a5885c790dd",
+    "managerName": "mostaq",
+    "managerEmail": "mostaq@gmail.com",
+    "title": "Artificial Flower",
+    "photo": "https://i.ibb.co/Wxjrzqn/artificial-flowers.webp",
+    "category": "Wedding",
+    "price": 150,
+    "rating": 4,
+    "description": "Enhance your wedding's beauty with our exquisite artificial flowers. These lifelike blooms bring timeless elegance to your ceremony and reception, offering a perfect backdrop for your special day."
+  },
+  {
+    "_id": "64667e408c3d1a5885c790de",
+    "managerName": "moin",
+    "managerEmail": "moin@gmail.com",
+    "title": "Cover for Table & Chairs",
+    "photo": "https://i.ibb.co/RC77BHh/cover-white-wedding.webp",
+    "category": "Wedding",
+    "price": 100,
+    "rating": 5,
+    "description": "Elevate your wedding's aesthetics with our elegant table and chair covers. These stylish additions not only protect your furniture but also create a cohesive and sophisticated look, ensuring a memorable ambiance for your celebration."
+  },
+  {
+    "_id": "64667f1b8c3d1a5885c790df",
+    "managerName": "moin",
+    "managerEmail": "moin@gmail.com",
+    "title": "Story Name Sign",
+    "photo": "https://i.ibb.co/vs70nRf/Styro.jpg",
+    "category": "Wedding",
+    "price": 99,
+    "rating": 3,
+    "description": "Capture the essence of your love story with a personalized name sign for your wedding. These beautifully crafted signs add a touch of romance and uniqueness to your special day, serving as a charming backdrop for your journey together."
+  },
+  {
+    "_id": "64667fec8c3d1a5885c790e0",
+    "managerName": "muzahid",
+    "managerEmail": "muzahid@gmail.com",
+    "title": "VIP table Setup",
+    "photo": "https://i.ibb.co/PWg0ysJ/vip-table.jpg",
+    "category": "Wedding",
+    "price": 199,
+    "rating": 4,
+    "description": "Elevate your wedding experience with a VIP table setup. Designed for utmost luxury and comfort, our VIP tables offer an exclusive and intimate setting for you and your guests. Enjoy impeccable service, exquisite decor, and a memorable atmosphere as you celebrate your special day in style."
+  },
+  {
+    "_id": "6466853f8c3d1a5885c790e1",
+    "managerName": "moin",
+    "managerEmail": "moin@gmail.com",
+    "title": "Birthday Party",
+    "photo": "https://i.ibb.co/PWg0ysJ/vip-table.jpghttps://i.ibb.co/yWh00f0/birthday-party.webp",
+    "category": "Birthday",
+    "price": 290,
+    "rating": 4,
+    "description": "Celebrate your special day with us! Our birthday party event services are designed to turn your dreams into reality. Whether it's a milestone birthday or an intimate gathering, our team specializes in creating memorable moments. From themed decorations to delectable treats, we handle every aspect, leaving you free to enjoy the festivities. Let us make your birthday celebration a day to remember."
+  },
+  {
+    "_id": "646685b98c3d1a5885c790e2",
+    "managerName": "moin",
+    "managerEmail": "moin@gmail.com",
+    "title": "Anniversary Party",
+    "photo": "https://i.ibb.co/mqb2T5P/anniversary.jpg",
+    "category": "Anniversary",
+    "price": 299,
+    "rating": 4,
+    "description": "Cherish the love that's lasted through the years with our anniversary party event services. Whether you're celebrating a milestone anniversary or simply want to rekindle your love, we're here to make it extraordinary. Our team specializes in crafting romantic atmospheres, complete with elegant décor and exquisite cuisine. Let us take care of the details so you can focus on creating beautiful memories with your beloved. Here's to many more years of love and togetherness."
+  },
+  {
+    "_id": "646850e00085cb7f81d05a6e",
+    "managerName": "Komol",
+    "managerEmail": "komol@gmail.com",
+    "title": "Wedding Party",
+    "photo": "https://i.ibb.co/YcqTJBR/wedding-Party.jpg",
+    "category": "Wedding Party",
+    "price": 290,
+    "rating": 4.5,
+    "description": "Crafting dream weddings with our expert touch. Your special day, our meticulous planning. Let us make it perfect for you."
+  },
+  {
+    "_id": "646852930085cb7f81d05a6f",
+    "managerName": "Komol",
+    "managerEmail": "komol@gmail.com",
+    "title": "Engagement Parties",
+    "photo": "https://i.ibb.co/PhPKnrb/enggement.jpg",
+    "category": "Engagement",
+    "price": 399,
+    "rating": 4.5,
+    "description": "Creating unforgettable moments to celebrate your love story. Our engagement parties are filled with joy, laughter, and cherished memories."
+  },
+  {
+    "_id": "6468adb0fe26db42579d285e",
+    "managerName": "Mostaq",
+    "managerEmail": "muzahid@gmail.com",
+    "title": "Retirement Parties",
+    "photo": "https://i.ibb.co/VHzwqVp/Retirement.jpg",
+    "category": "Retirement",
+    "price": 200,
+    "rating": 4.5,
+    "description": "Marking the end of a remarkable career journey with style and sentiment. Our retirement parties are tailored to honor a lifetime of dedication and the exciting adventures that lie ahead."
+  },
+  {
+    "_id": "646b535498b4ee958524ee08",
+    "managerName": "Hungry Coder",
+    "managerEmail": "hungrycoder421codermama@gmail.com",
+    "title": "Baby Shower",
+    "photo": "https://i.ibb.co/hHNL7Zy/Baby-shower.jpg",
+    "category": "Baby Shower",
+    "price": 500,
+    "rating": 4,
+    "description": "Celebrating the joyous anticipation of new life with love and laughter. Our baby shower events are designed to make every moment of this special occasion unforgettable for the parents-to-be."
+  }
+]

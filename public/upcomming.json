@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "6467311bca62f50566fc9b84",
+    "name": "Graduation Party",
+    "price": "$399.59",
+    "rating": 4.5,
+    "picture": "https://i.ibb.co/NZtV0q3/graduation-party.jpg"
+  },
+  {
+    "id": "6467311bca62f50566fc9b86",
+    "name": "New Year'S Eve Celebration",
+    "price": "$299.89",
+    "rating": 4,
+    "picture": "https://i.ibb.co/zJ8MnN3/new-year.jpg"
+  },
+  {
+    "_id": "6467311bca62f50566fc9b87",
+    "name": "Family Fun Fair",
+    "price": "$201.79",
+    "rating": 4.1,
+    "picture": "https://i.ibb.co/V99HMgz/family-fun-fair.jpg"
+  },
+  {
+    "_id": "6467311bca62f50566fc9b88",
+    "name": "Video & Photography",
+    "price": "$187.99",
+    "rating": 4.6,
+    "picture": "https://i.ibb.co/BZBHkpy/videography.jpg"
+  }
+]
