@@ -22,6 +22,27 @@ const Signup = () => {
         const password = form.password.value;
         console.log(photoUrl, name, email, password);
 
+        setError('');
+        setACcecpted('');
+
+
+        if (password.length < 6) {
+            setError('Password should be at least 6 characters or longer');
+            return;
+        }
+        else if (!/[A-Z]/.test(password)) {
+            setError('Your password should have at least one upper case characters.')
+            return;
+        }
+        else if (!/[#?!@$%^&*-]/.test(password)){
+            setError('Your password should have at least one special character.')
+            return; 
+        }
+        else if(!accecpted){
+            setError('Please accept our terms and conditions!')
+            return;
+        }
+
         createUser(email, password)
         .then((result)=>{
             form.reset('');
