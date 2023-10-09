@@ -1,24 +1,22 @@
-# b7a11-toy-marketplace-client-side-mehedi-hasan16
+# b8a9-event-management-Mostaq27
+
 
 ## Live Link
-https://car-craze-5f390.web.app
+https://event-management-11797.web.app
 
 ## Project Summary
 
-* the website is car craze. it's toy car website
-* this website devloped with react js , express js , firebase and database as a mongodb
+* the website is social event management. it's event management website
+* this website devloped with react js , firebase and react router .
 * the website has navbar with conditional tab
     * Home
-    * All Toy
-    * Blog
+    * All Event
+    * About
 * conditional tab is 
-    * Add Toy
-    * My Toy
-* mongoDB CRUD operater
-* mongoDB search, limit and sort with ascending and descending 
+    * Wedding
+    * New Event 
 * used private route
 * 404 page
 * implement 2 type of authentication system , like password, google
-* Toy Deatils button 
+* Event Deatils button 
 * Input field validation
-
