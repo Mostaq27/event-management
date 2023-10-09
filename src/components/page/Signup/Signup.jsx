@@ -1,7 +1,7 @@
 import { useContext, useState } from "react";
 import { Button, Form } from "react-bootstrap";
 import { AuthContext } from "../../../providers/AuthProvider";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { updateProfile } from "firebase/auth";
 import Swal from 'sweetalert2'
 import { Helmet } from "react-helmet";
@@ -10,7 +10,7 @@ const Signup = () => {
     const {createUser} = useContext(AuthContext)
     const [accecpted, setACcecpted] = useState(false);
     const [error, setError] = useState('')
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
 
     const handleRegister = event =>{
         event.preventDefault();

@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: 
+#### Answer: B
 
-<i>B: `ReferenceError: greetign is not defined`
+<i> 
 
 In the provided code, there is a typo. You declared the variable as greeting, but you attempted to assign an empty object to greetign. Due to this typo, JavaScript will throw a ReferenceError because greetign is not defined.</i>
 
@@ -45,9 +45,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: 
+#### Answer: C
 
-<i>C: `"12"`
+<i> 
 
 In the given code, the sum function takes two parameters a and b and returns their sum. When you call sum(1, "2"), JavaScript will perform type coercion and convert the number 1 to a string to make the operation possible. Therefore, it concatenates the two strings, resulting in "12".</i>
 
@@ -73,9 +73,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: 
+#### Answer: A
 
-<i>A: `["🍕", "🍫", "🥑", "🍔"]`
+<i> 
 In this code, the info object is initially assigned the value { favoriteFood: "🍕" }, where "🍕" is the first element of the food array. However, in the next line, the favoriteFood property of the info object is reassigned to "🍝". This change does not affect the food array in any way, so the food array remains `["🍕", "🍫", "🥑", "🍔"]`.</i>
 
 </p>
@@ -99,9 +99,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: 
+#### Answer: B
 
-<i>B: `Hi there, undefined`
+<i>
 
 In the given code, the sayHi function expects a parameter name, but when you call sayHi() without providing an argument, it will use the default value of undefined for name. So, it will return "Hi there, undefined" when you log it to the console.</i>
 
@@ -129,9 +129,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: 
+#### Answer: C
 
-<i> C: `3`
+<i> 
 
 In this code, the forEach loop iterates through the nums array and increments the count variable for each truthy value (a value not equal to 0). The nums array contains 4 elements (0, 1, 2, and 3), but only 3 of them (1, 2, and 3) are truthy, so the count variable ends up with a value of 3.</i>
 
