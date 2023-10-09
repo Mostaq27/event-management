@@ -8,32 +8,20 @@ import { useParams } from "react-router-dom";
 
 
 const EventDetails = () => {
-    const [findData, setFindData] = useState({});
-
-    const { id } = useParams();
+   const [findData,setFindData]=useState({})
+    const {id} = useParams()
     
-    useEffect(() => {
+    useEffect(()=>{
         fetch("/eventsdetails.json")
-            .then((result) => {
-                if (!result.ok) {
-                    throw new Error("Network response was not ok");
-                }
-                return result.json();
-            })
-            .then((data) => {
-                const foundData = data.find((events) => events.id === id);
-                if (foundData) {
-                    setFindData(foundData);
-                } else {
-                    console.error(`Event with id ${id} not found.`);
-                }
-            })
-            .catch((error) => {
-                console.error("Error fetching event details:", error);
-            });
-    }, [id]);
-    
-    console.log(findData);
+        .then(res=>res.json())
+        .then(data =>{
+
+            const findItem = data.find(event=> event._id==id)
+            setFindData(findItem)
+        })
+    },[id])
+
+
 
     return (
         <div className="container my-4 min-vh-100">
@@ -63,6 +51,7 @@ const EventDetails = () => {
             </div>
             
         </div>
+        
 
     );
 };

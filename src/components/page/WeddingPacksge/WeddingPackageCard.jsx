@@ -31,9 +31,9 @@ const WeddingPackageCard = ({ events }) => {
     return (
         <div>
             <Col>
-                <Card data-aos="fade-down"
+                <Card data-aos="fade-up-left"
                     data-aos-easing="linear"
-                    data-aos-duration="1500">
+                    data-aos-duration="1000">
                     <div className="crop-container">
                         <Card.Img variant="top" src={photo} className="w-100 img-fluid" />
                     </div>

@@ -38,7 +38,7 @@ const NavigationBar = () => {
                                 user
                                     ? <span className="d-flex">
                                         <ActiveLink to='/weddingpackage'>Wedding</ActiveLink>
-                                        <ActiveLink to='/newevent'>New Event</ActiveLink>
+                                        <ActiveLink to='/newevent'>New Service</ActiveLink>
                                     </span>
                                     : ''
                             }

@@ -14,19 +14,22 @@ const About = () => {
   }, [])
   return (
     <>
-      <div className="hero min-h-screen bg-base-200 pt-32"
-        data-aos="fade-down"
-        data-aos-easing="linear"
-        data-aos-duration="1500">
+      <div className="hero min-h-screen bg-base-200 pt-32">
         <div className="hero-content flex flex-col gap-20 lg:flex-row mx-10">
-          <div className="lg:w-1/2 relative">
+          <div className="lg:w-1/2 relative"
+           data-aos="zoom-in-down"
+           data-aos-easing="linear"
+           data-aos-duration="1500">
             <img src={person} className="w-3/4 rounded-lg shadow-2xl" />
             <img
               src={parts}
               className="w-1/2 absolute right-5 top-1/2 rounded-lg border-8 border-white shadow-2xl"
             />
           </div>
-          <div className="lg:w-1/2 space-y-5 p-4">
+          <div className="lg:w-1/2 space-y-5 p-4"
+           data-aos="zoom-in-left"
+           data-aos-easing="linear"
+           data-aos-duration="1000">
             <h3 className="text-5xl  font-bold text-blue-600">About Us</h3>
             <h1 className="text-3xl font-bold ">
               We are qualified & of experience in this field

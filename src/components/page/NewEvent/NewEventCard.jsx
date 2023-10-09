@@ -15,9 +15,9 @@ const NewEventCard = ({ service }) => {
     return (
         <div>
             <Col>
-                <Card data-aos="fade-down"
+                <Card data-aos="fade-up-right"
                     data-aos-easing="linear"
-                    data-aos-duration="1500">
+                    data-aos-duration="1000">
                     <Card.Img variant="top" src={picture} className="image-top" />
                     <Card.Body className="text-center">
                         <Card.Title>{name}</Card.Title>
