@@ -41,7 +41,7 @@ const CategoryCart = ({ cars }) => {
                         <Card.Text>
                             {
                                 description.length > 90
-                                    ? <div>{description.slice(0, 90)} <Link to={`/details/${_id}`} className=" text-base text-blue-400">Read More...</Link> </div>
+                                    ? <div>{description.slice(0, 90)} <div className=" text-base text-blue-400">Read More...</div></div>
                                     : <div>{description} </div>
                             }
                             <div>Price: ${price}</div>
